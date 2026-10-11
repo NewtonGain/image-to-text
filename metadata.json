@@ -1,0 +1,6 @@
+{
+  "name": "ScanText Studio - AI Picture to Text OCR",
+  "description": "Extract, format, translate, and analyze text from any image, document, receipt, or handwritten note with high precision AI OCR.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
